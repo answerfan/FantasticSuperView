@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FantasticSuperView: UIView {
+public class FantasticSuperView: UIView {
 
     let colors : [UIColor] = [.red, .orange, .yellow, .green, .blue, .purple]
     var colorCounter = 0
