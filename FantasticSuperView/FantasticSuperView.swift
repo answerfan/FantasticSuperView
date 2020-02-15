@@ -26,7 +26,6 @@ public class FantasticSuperView: UIView {
         }
         
         scheduledColorChanged.fire()
-        print("fired")
     }
     
     required init?(coder aDecoder: NSCoder) {
